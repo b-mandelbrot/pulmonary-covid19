@@ -8,7 +8,7 @@ To reproduce the article, it will be necessary to clone the git repository provi
 
 ### Features
 
-All feature sets extracted by the different CNN architectures used in this work are available for download at: [data/features](https://drive.google.com/drive/folders/1dlkpyQ2RrkCi1g8CfZsXYzxqL4X6XFJU?usp=sharing)
+All feature sets extracted by the different CNN architectures used in this work are available for download at: [data/features](https://drive.google.com/drive/folders/1dlkpyQ2RrkCi1g8CfZsXYzxqL4X6XFJU?usp=sharing).
 
 ### Hybrid model
 

@@ -39,7 +39,7 @@ Visit the url [http://127.0.0.1:8080/](http://127.0.0.1:8080/) to view the dashb
 
 ### Jupyter notebook
 
-To use the notebook is necessary to install some dependencies.
+To use the notebook is necessary to install some dependencies for `Python 3`.
 
     $ pip install jupyter numpy sklearn tensorflow==2.4.1
 

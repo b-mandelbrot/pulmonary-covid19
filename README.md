@@ -1,6 +1,6 @@
 ## Title
 
-Pulmonary COVID-19: Learning Spatialtemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification (EN)
+Pulmonary COVID-19: Learning Spatialtemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification
 
 ## Abstract
 

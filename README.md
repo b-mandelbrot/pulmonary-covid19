@@ -44,3 +44,7 @@ To use the notebook is necessary to install some dependencies for `Python 3`.
     $ pip install jupyter numpy sklearn tensorflow==2.4.1
 
 To run the model and extract the metrics provided in the paper use the notebook: [xception-lstm.ipynb](xception-lstm.ipynb).
+
+### Evaluation
+
+The [evaluation.csv](evaluation.csv) file contains the numerical results for each model.

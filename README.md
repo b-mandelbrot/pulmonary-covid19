@@ -30,7 +30,7 @@ The hybrid model (Xception-CNN) proposed by this work is available for download 
 
 The database containing the optimization results of all hybrid models is available for download at: [data/optuna](https://drive.google.com/drive/folders/1dlkpyQ2RrkCi1g8CfZsXYzxqL4X6XFJU?usp=sharing)
 
-To see the results, you need to install the `optuna-dashboard` library for `Python`.
+To see the results, you need to install the `optuna-dashboard` library for `Python 3`.
 
 	$ pip install optuna-dashboard
     $ optuna-dashboard sqlite:///optuna.db # you must have previously downloaded the file.
@@ -38,5 +38,9 @@ To see the results, you need to install the `optuna-dashboard` library for `Pyth
 Visit the url [http://127.0.0.1:8080/](http://127.0.0.1:8080/) to view the dashboard.
 
 ### Jupyter notebook
+
+To use the notebook is necessary to install some dependencies.
+
+    $ pip install jupyter numpy sklearn tensorflow==2.4.1
 
 To run the model and extract the metrics provided in the paper use the notebook: [xception-lstm.ipynb](xception-lstm.ipynb).

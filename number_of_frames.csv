@@ -1,0 +1,186 @@
+label,filename,frames
+cov,Cov-Atlas+(44).gif,41
+cov,Cov-Atlas+(45).gif,21
+cov,Cov-Atlas-+(43).gif,39
+cov,Cov-Atlas-Day+1.gif,33
+cov,Cov-Atlas-Day+2.gif,83
+cov,Cov-Atlas-Day+3.gif,40
+cov,Cov-Atlas-Day+4.gif,40
+cov,Cov-Atlas-suspectedCovid.mp4,100
+cov,Cov-clarius.mp4,103
+cov,Cov-clarius3.mp4,117
+cov,Cov-grep-7453.mp4,210
+cov,Cov-grep-7505.mp4,365
+cov,Cov-grep-7507.mp4,159
+cov,Cov-grep-7510.mp4,267
+cov,Cov-grep-7511.mp4,269
+cov,Cov-grep-7525.mp4,361
+cov,Cov-grep-7543.mp4,70
+cov,Cov-grepmed-blines-pocus-.mp4,225
+cov,Cov-grepmed2.mp4,298
+cov,Cov_Arnthfield_2020_Vid3.mp4,120
+cov,Cov_Butterfly_Coalescing B lines.avi,64
+cov,Cov_Butterfly_Confluent B lines.avi,119
+cov,Cov_Butterfly_Confluent B lines_Example 2.avi,90
+cov,Cov_Butterfly_Consolidation with Air Bronchograms.avi,49
+cov,Cov_Butterfly_Consolidation.avi,125
+cov,Cov_Butterfly_Consolidation_Example 2.avi,109
+cov,Cov_Butterfly_Consolidation_Example 3.avi,80
+cov,Cov_Butterfly_Consolidation_Example 5.avi,114
+cov,Cov_Butterfly_Irregular Pleura and Coalescent B-lines.avi,103
+cov,Cov_Butterfly_Irregular Pleura with Confluent B-lines.avi,87
+cov,Cov_Butterfly_Irregular Pleura with Multiple B lines.avi,156
+cov,Cov_Butterfly_Irregular Pleura with Trace Effusion.avi,76
+cov,Cov_Butterfly_Irregular Pleural Line.avi,101
+cov,Cov_Butterfly_Irregular Pleural Line_Example 2.avi,81
+cov,Cov_Butterfly_Patchy B lines with Sparing.avi,108
+cov,Cov_Butterfly_Skip Lesion.avi,157
+cov,Cov_Butterfly_Subpleural Basal Consolidation.avi,111
+cov,Cov_Butterfly_Subpleural Basal Consolidation_Example 2.avi,91
+cov,Cov_combatting_Image1.mp4,113
+cov,Cov_combatting_Image2.mp4,191
+cov,Cov_combatting_Image3.mp4,174
+cov,Cov_combatting_Image5.mp4,182
+cov,Cov_combatting_image4.mp4,137
+cov,Cov_convex_volpecelli_sonographic_v1.mov,403
+cov,Cov_convex_volpecelli_sonographic_v2.mov,402
+cov,Cov_convex_volpecelli_sonographic_v3.mov,399
+cov,Cov_convex_volpecelli_sonographic_v4.mov,405
+cov,Cov_convex_volpecelli_sonographic_v5.mov,401
+cov,Cov_denault_proposedUS_vid1.mov,144
+cov,Cov_denault_proposedUS_vid10.mov,141
+cov,Cov_denault_proposedUS_vid11.mov,142
+cov,Cov_denault_proposedUS_vid12.mov,160
+cov,Cov_denault_proposedUS_vid13.mov,171
+cov,Cov_denault_proposedUS_vid14.mov,136
+cov,Cov_denault_proposedUS_vid2.mov,436
+cov,Cov_denault_proposedUS_vid5.mov,192
+cov,Cov_emdocs_vid1.gif,134
+cov,Cov_emdocs_vid3.gif,75
+cov,Cov_new_pregnant_vid1.mp4,144
+cov,Cov_new_pregnant_vid2.mp4,142
+cov,Cov_new_pregnant_vid3.mp4,150
+cov,Cov_new_pregnant_vid4.mp4,150
+cov,Cov_new_pregnant_vid5.mp4,150
+cov,Cov_new_pregnant_vid6.mp4,150
+cov,Cov_new_pregnant_vid7.mp4,150
+cov,Cov_new_pregnant_vid8.mp4,150
+cov,Cov_recommendations_lightbeam_mov6.mov,309
+cov,Cov_recommendations_likebutterfly_mov5.mov,138
+cov,Cov_wfumb_case_dez.mp4,91
+pne,Pneu-Atlas-pneumonia.gif,59
+pne,Pneu-Atlas-pneumonia2.gif,40
+pne,Pneu-grep-bacterial-hepatization-clinical.mp4,300
+pne,Pneu-grep-pneumonia1.mp4,151
+pne,Pneu-grep-pneumonia2_1.mp4,300
+pne,Pneu-grep-pneumonia3.mp4,114
+pne,Pneu-grep-pneumonia4.mp4,151
+pne,Pneu-grep-pulmonary-pneumonia.mp4,187
+pne,Pneu-grep-shredsign-consolidation.mp4,458
+pne,Pneu_AIR BRONC2.mp4,52
+pne,Pneu_Avi_Video_001.mp4,91
+pne,Pneu_Avi_Video_002.mp4,93
+pne,Pneu_Avi_Video_003.mp4,93
+pne,Pneu_Avi_Video_004.mp4,31
+pne,Pneu_Avi_Video_005.mp4,91
+pne,Pneu_Avi_Video_006.mp4,92
+pne,Pneu_Basal-pneumonia-RUQ_crop.mp4,27
+pne,Pneu_Pneumonia-LITFL-Ultrasound_crop.mp4,27
+pne,Pneu_Youtube_case.mp4,165
+pne,Pneu_basalpneumonia_liftle_case1.mp4,42
+pne,Pneu_clinicalreview_MOV4.mp4,96
+pne,Pneu_consol_advancesVid10.mp4,450
+pne,Pneu_from_article_rippey.mp4,42
+pne,Pneu_liftl_pneu_case3_clip3.mp4,25
+pne,Pneu_liftl_pneu_case3_clip4.mp4,41
+pne,Pneu_liftl_pneu_case3_clip5.mp4,26
+pne,Pneu_northumbria_0409_set1_vid1.avi,90
+pne,Pneu_northumbria_0409_set1_vid2.avi,93
+pne,Pneu_northumbria_0409_set2_vid1.avi,91
+pne,Pneu_northumbria_0409_set2_vid2.avi,93
+pne,Pneu_northumbria_0409_set2_vid3.avi,92
+pne,Pneu_northumbria_0409_set2_vid4.avi,79
+pne,Pneu_northumbria_0409_set3_vid1.avi,90
+pne,Pneu_northumbria_0409_set3_vid2.avi,92
+pne,Pneu_northumbria_0409_set4_vid1.avi,90
+pne,Pneu_northumbria_0409_set4_vid2.avi,91
+pne,Pneu_northumbria_0409_set5_vid1.avi,92
+pne,Pneu_northumbria_0409_set5_vid2.avi,92
+pne,Pneu_northumbria_0409_set6_vid1.avi,92
+pne,Pneu_northumbria_0409_set6_vid2.avi,92
+pne,Pneu_northumbria_0409_set6_vid3.avi,91
+pne,Pneu_northumbria_0409_set6_vid4.avi,91
+pne,Pneu_northumbria_0409_set6_vid5.avi,93
+pne,Pneu_northumbria_0409_set6_vid7.avi,91
+pne,Pneu_northumbria_0409_set6_vid8.avi,91
+pne,Pneu_northumbria_1009_vid1.avi,93
+reg,Reg-Atlas-alines.gif,60
+reg,Reg-Atlas-lungcurtain.gif,60
+reg,Reg-Atlas.gif,59
+reg,Reg-Grep-Alines.mp4,85
+reg,Reg-Grep-Normal.mp4,33
+reg,Reg-NormalLungs.mp4,131
+reg,Reg-Youtube.mp4,130
+reg,Reg-bcpocus.mp4,59
+reg,Reg-nephropocus.mp4,30
+reg,Reg_Alines-1-90.mp4,78
+reg,Reg_Avi_Image002.mp4,202
+reg,Reg_Avi_Image003.mp4,202
+reg,Reg_Avi_Image004.mp4,202
+reg,Reg_Avi_Image008.mp4,199
+reg,Reg_Avi_Video_001.mp4,92
+reg,Reg_Avi_Video_002.mp4,64
+reg,Reg_Avi_Video_003.mp4,84
+reg,Reg_Avi_Video_004.mp4,202
+reg,Reg_Avi_lung-sliding-2.MP4,56
+reg,Reg_Avi_lung-sliding-3.MP4,55
+reg,Reg_Avi_lung-sliding.MP4,56
+reg,Reg_Butterfly_Normal Lung A lines.avi,25
+reg,Reg_Butterfly_Normal Lung_Example 2.avi,99
+reg,Reg_Image_181602_trimmed_crop.mp4,374
+reg,Reg_Image_181739_trimmed_crop.mp4,104
+reg,Reg_Image_182106_crop.mp4,206
+reg,Reg_Image_182340_crop.mp4,309
+reg,Reg_alines_advancesVid4.mp4,177
+reg,Reg_clinicalreview_mov1.mp4,197
+reg,Reg_liftl_case3_clip2.mp4,32
+reg,Reg_liftl_pneucase3_clip1.mp4,24
+reg,Reg_northumbria_0409_set3_vid1.avi,91
+reg,Reg_northumbria_0409_set3_vid2.avi,94
+reg,Reg_northumbria_0409_set5_vid1.avi,200
+reg,Reg_northumbria_0409_set5_vid2.avi,98
+reg,Reg_northumbria_1009_vid1.avi,92
+reg,Reg_northumbria_1009_vid2.avi,92
+reg,Reg_northumbria_1009_vid3.avi,91
+reg,Reg_northumbria_1009_vid5.avi,93
+reg,Reg_northumbria_1009_vid6.avi,93
+reg,Reg_northumbria_1009_vid7.avi,92
+reg,Reg_pat1Image_132943.mpeg,280
+reg,Reg_pat1Image_133043.mpeg,246
+reg,Reg_pat1Image_133138.mpeg,262
+reg,Reg_pat1Image_133232.mpeg,200
+reg,Reg_pat1Image_133327.mpeg,218
+reg,Reg_pat1Image_133410.mpeg,183
+reg,Reg_pat2Image_133824.mpeg,273
+reg,Reg_pat2Image_133952.mpeg,254
+reg,Reg_pat2Image_134138.mpeg,236
+reg,Reg_pat2Image_134240.mpeg,254
+reg,Reg_pat2Image_134348.mpeg,208
+reg,Reg_pat2Image_134441.mpeg,215
+reg,Reg_pat3Image_134711.mpeg,217
+reg,Reg_pat3Image_134811.mpeg,207
+reg,Reg_pat3Image_134904.mpeg,247
+reg,Reg_pat3Image_135026.mpeg,279
+reg,Reg_pat3Image_135128.mpeg,209
+reg,Reg_pat3Image_135215.mpeg,318
+reg,Reg_pat4Image_135904.mpeg,266
+reg,Reg_pat4Image_140024.mpeg,438
+reg,Reg_pat4Image_140238.mpeg,215
+reg,Reg_pat4Image_140434.mpeg,323
+reg,Reg_pat4Image_140606.mpeg,218
+reg,Reg_pat4Image_140705.mpeg,266
+reg,Reg_recommendations_alines_mov1.mov,180
+pne,pneu-everyday.mp4,61
+pne,pneu-gred-6.mp4,54
+pne,pneu-gred-7.mp4,48
+pne,pneu-radiopaeda.mp4,223

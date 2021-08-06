@@ -33,6 +33,6 @@ The database containing the optimization results of all hybrid models is availab
 To see the results, you need to install the `optuna-dashboard` library for `Python 3`.
 
 	$ pip install optuna-dashboard
-  $ optuna-dashboard sqlite:///optuna.db # you must have previously downloaded the file.
+	$ optuna-dashboard sqlite:///optuna.db # you must have previously downloaded the file.
     
 Visit the url [http://127.0.0.1:8080/](http://127.0.0.1:8080/) to view the dashboard.

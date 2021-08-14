@@ -72,3 +72,17 @@ The [evaluation.csv](evaluation.csv) file contains the numerical results for eac
 	Chicago/Turabian Style
 	Barros, Bruno, Paulo Lacerda, Célio Albuquerque, and Aura Conci. 2021. "Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification" Sensors 21, no. 16: 5486. https://doi.org/10.3390/s21165486
 
+### BibTeX
+
+	@article{Barros2021,
+	  author = {Barros, Bruno and Lacerda, Paulo and Albuquerque, C{\'{e}}lio and Conci, Aura},
+	  doi = {10.3390/S21165486},
+	  month = {aug},
+	  number = {16},
+	  pages = {5486},
+	  publisher = {Multidisciplinary Digital Publishing Institute},
+	  title = {{Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification}},
+	  url = {https://www.mdpi.com/1424-8220/21/16/5486},
+	  volume = {21},
+	  year = {2021}
+	}

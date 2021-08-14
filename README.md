@@ -1,6 +1,6 @@
 ## Title
 
-Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification
+[Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification](https://www.mdpi.com/1424-8220/21/16/5486)
 
 ## Journal
 
@@ -60,3 +60,15 @@ To run the model and extract the metrics provided in the paper use the notebook:
 ### Evaluation
 
 The [evaluation.csv](evaluation.csv) file contains the numerical results for each model.
+
+### Cite
+
+	MDPI and ACS Style
+	Barros, B.; Lacerda, P.; Albuquerque, C.; Conci, A. Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification. Sensors 2021, 21, 5486. https://doi.org/10.3390/s21165486
+
+	AMA Style
+	Barros B, Lacerda P, Albuquerque C, Conci A. Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification. Sensors. 2021; 21(16):5486. https://doi.org/10.3390/s21165486
+
+	Chicago/Turabian Style
+	Barros, Bruno, Paulo Lacerda, Célio Albuquerque, and Aura Conci. 2021. "Pulmonary COVID-19: Learning Spatiotemporal Features Combining CNN and LSTM Networks for Lung Ultrasound Video Classification" Sensors 21, no. 16: 5486. https://doi.org/10.3390/s21165486
+

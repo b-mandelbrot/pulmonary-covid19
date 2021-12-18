@@ -36,7 +36,7 @@ All feature sets extracted by the different CNN architectures used in this work 
 
 ### Hybrid model
 
-The hybrid model (Xception-CNN) proposed by this work is available for download in h5 format at: [data/best_model](https://drive.google.com/drive/folders/1dlkpyQ2RrkCi1g8CfZsXYzxqL4X6XFJU?usp=sharing).
+The hybrid model (Xception-LSTM) proposed by this work is available for download in h5 format at: [data/best_model](https://drive.google.com/drive/folders/1dlkpyQ2RrkCi1g8CfZsXYzxqL4X6XFJU?usp=sharing).
 
 ### Hyperparameters optimization (HPO)
 
